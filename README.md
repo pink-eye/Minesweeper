@@ -2,7 +2,7 @@
 <h1 align="center"><b>Minesweeper</b></h1>
 <h4 align="center">Another one minesweeper</h4>
 
-<p align="center"><a href="#screenshots">Screenshots</a> &bull; <a href="#installation">Installation</a></p> &bull; <a href="#credits">Credits</a></p>
+<p align="center"><a href="#screenshots">Screenshots</a> &bull; <a href="#installation">Installation</a> &bull; <a href="#credits">Credits</a></p>
 <hr>
 
 ## Screenshots
